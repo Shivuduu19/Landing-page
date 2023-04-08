@@ -28,6 +28,7 @@ a:link{
 }
 button{
     background-color: #3882f6;
+    border-radius: 10px;
 }
 
 .onesection{
@@ -88,4 +89,25 @@ img{
 }
 .third p{
     text-align: right;
+}
+.inside{
+    display: flex;
+    background-color: #3882f6;
+    margin: 80px;
+    align-items: center;
+    justify-content: center;
+}
+.button button{
+    padding: 10px 40px;
+    margin:50px;
+   margin-left: 160px;
+   border-color: white;
+}
+body .fourth{
+    background-color:white;
+}
+.footer{
+    background-color: #1F2937;
+    padding: 30px;
+    text-align: center;
 }
